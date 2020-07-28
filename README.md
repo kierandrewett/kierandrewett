@@ -8,4 +8,3 @@ I'm Kieran, also known as EnderDev.
    * Email (kieran dot dothq dot co)
    * Discord
 - 😄 Pronouns: he/him
--  Fun Fact about me: I am  gay
