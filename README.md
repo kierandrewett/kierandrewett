@@ -20,3 +20,5 @@ I'm Kieran, also known as EnderDev.
 ## 📊 Statistics
 
 ![bruh](https://github-readme-stats.vercel.app/api?username=enderdev&show_icons=true)
+
+[![HitCount](http://hits.dwyl.com/EnderDev/EnderDev.svg)](http://hits.dwyl.com/EnderDev/EnderDev)
