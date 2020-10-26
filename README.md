@@ -15,7 +15,7 @@ I'm Kieran, also known as EnderDev.
 
 ## 🎓 What I'm learning
 
-* 🌱 I’m currently learning C++
+* 🌱 I’m currently learning C++ and Rust
 
 ## 📊 Statistics
 
