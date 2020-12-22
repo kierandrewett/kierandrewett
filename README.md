@@ -22,6 +22,8 @@ I'm Kieran, also known as EnderDev.
 
 ![bruh](https://github-readme-stats.vercel.app/api?username=enderdev&show_icons=true)
 
+![Spotify](https://spotify-pied.vercel.app/api/spotify)
+
 [![GitHub metrics](https://metrics.lecoq.io/EnderDev?base.community=0&base.repositories=0&base.metadata=0)](https://github.com/lowlighter/metrics)
 
 [![HitCount](http://hits.dwyl.com/EnderDev/EnderDev.svg)](http://hits.dwyl.com/EnderDev/EnderDev)
