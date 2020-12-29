@@ -11,6 +11,9 @@ I am a full-stack developer and privacy advocate.
   <a href="https://discord.gg/WRDEK2D" target="blank">
     <img align="center" src="https://i.imgur.com/gvtzy24.png" alt="WRDEK2D" height="22" width="22" />
   </a>
+  <span></span>
+	&nbsp;
+  <img align="center" src="https://komarev.com/ghpvc/?username=enderdev&label=Profile%20views&color=0e75b6&style=flat" alt="enderdev" />
 </p>
 
 ### 💻 What I'm working on
@@ -27,9 +30,10 @@ I am a full-stack developer and privacy advocate.
 
 - 📫 You can speak to me via email kieran@dothq.co or any of the socials below
 
-### ⭐ Technologies I am familiar with
+### ⭐ Technologies
+Anything in these lists I either use or I am familiar with.
 <p align="left">
-  <h4>Languages</h4>
+  <h4>🖥 Languages</h4>
   <p align="left">
     <a href="https://nodejs.org" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -67,7 +71,7 @@ I am a full-stack developer and privacy advocate.
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
   </p>
-  <h4>Frameworks and Libraries</h4>
+  <h4>📚 Frameworks and Libraries</h4>
   <p align="left">
   	<a href="https://reactjs.org/" target="_blank">
 		  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -121,7 +125,7 @@ I am a full-stack developer and privacy advocate.
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
     </a>
   </p>
-  <h4>Software</h4>
+  <h4>💾 Software</h4>
   <p align="left">
   <a href="https://firefox.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox.svg" alt="Firefox" width="40" height="40"/>
@@ -154,7 +158,7 @@ I am a full-stack developer and privacy advocate.
 		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 	</a>
 </p>
-  <h4>Other</h4>
+  <h4>💠 Other</h4>
    <p align="left">
     <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   	<a href="https://circleci.com" target="_blank">
@@ -176,5 +180,3 @@ I am a full-stack developer and privacy advocate.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enderdev&show_icons=true&locale=en" alt="enderdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enderdev&" alt="enderdev" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=enderdev&label=Profile%20views&color=0e75b6&style=flat" alt="enderdev" /> </p>
