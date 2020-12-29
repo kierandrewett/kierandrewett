@@ -29,7 +29,7 @@ I am a full-stack developer and privacy advocate.
 
 - ⚡ Fun fact **I use Linux as my daily-driver.**
 
-- 📫 You can speak to me via email kieran@dothq.co or any of the socials below
+- 📫 You can speak to me via email kieran@dothq.co
 
 ### 💻 What I'm working on
 
