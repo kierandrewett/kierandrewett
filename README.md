@@ -40,7 +40,7 @@ I am a full-stack developer and privacy advocate.
 - **[dothq.co](https://github.com/dothq/dothq.co)** - Frontend and backend for https://dothq.co.
 
 ### ⭐ Technologies
-Anything in these lists I either use or I am familiar with.
+Any technology in these lists I either use on a daily basis or I am familiar with.
 <p align="left">
   <h4>🖥 Languages</h4>
   <p align="left">
