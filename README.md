@@ -8,6 +8,7 @@ I am a full-stack developer and privacy advocate.
     <img align="center" src="https://i.imgur.com/hz1w2yY.png" alt="enderdev_" height="22" width="22" />
   </a>
   <span></span>
+	&nbsp;
   <a href="https://discord.gg/WRDEK2D" target="blank">
     <img align="center" src="https://i.imgur.com/gvtzy24.png" alt="WRDEK2D" height="22" width="22" />
   </a>
