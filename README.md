@@ -17,19 +17,27 @@ I am a full-stack developer and privacy advocate.
   <img align="center" src="https://komarev.com/ghpvc/?username=enderdev&label=Profile%20views&color=0e75b6&style=flat" alt="enderdev" />
 </p>
 
-### 💻 What I'm working on
+### 👨‍💻 About me
 
 - 🔭 I’m currently working on [Dot Browser](https://dothq.co)
 
 - 🌱 I’m currently learning [Rust](https://rust-lang.org)
 
-- 👨‍💻 All of my active projects are available at [ender.site](https://ender.site)
+- 🏛 All of my active projects are available at [ender.site](https://ender.site)
 
 - 📝 I regularly write articles on [dothq.co/blog](https://dothq.co/blog)
 
 - ⚡ Fun fact **I use Linux as my daily-driver.**
 
 - 📫 You can speak to me via email kieran@dothq.co or any of the socials below
+
+## 💻 What I'm working on
+
+- **[Dot Browser](https://github.com/dothq/browser)** - A privacy-centric web browser which automatically blocks trackers and ads online with ease.
+
+- **[Compass](https://github.com/dothq/ntp)** - A widget-based new tab page 
+
+- **[dothq.co](https://github.com/dothq/dothq.co)** - Frontend and backend for https://dothq.co.
 
 ### ⭐ Technologies
 Anything in these lists I either use or I am familiar with.
