@@ -31,7 +31,7 @@ I am a full-stack developer and privacy advocate.
 
 - 📫 You can speak to me via email kieran@dothq.co or any of the socials below
 
-## 💻 What I'm working on
+### 💻 What I'm working on
 
 - **[Dot Browser](https://github.com/dothq/browser)** - A privacy-centric web browser which automatically blocks trackers and ads online with ease.
 
