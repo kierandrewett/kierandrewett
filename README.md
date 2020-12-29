@@ -183,9 +183,3 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
   <a href="https://www.apple.com/macos/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> </a>
   
   </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enderdev&show_icons=true&locale=en&layout=compact" alt="enderdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enderdev&show_icons=true&locale=en" alt="enderdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enderdev&" alt="enderdev" /></p>
