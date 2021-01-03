@@ -45,7 +45,7 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
   <h4>🖥 Languages</h4>
   <p align="left">
     <a href="https://nodejs.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <span></span>
     <a href="https://www.typescriptlang.org/" target="_blank">
