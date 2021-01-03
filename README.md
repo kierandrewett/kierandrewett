@@ -83,7 +83,7 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
   <h4>📚 Frameworks and Libraries</h4>
   <p align="left">
   	<a href="https://reactjs.org/" target="_blank">
-		  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 	  </a>
     <span></span>
     <a href="https://babeljs.io/" target="_blank">
@@ -95,11 +95,11 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
     </a>
     <span></span>
     <a href="https://www.electronjs.org" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
     </a>
     <span></span>
     <a href="https://expressjs.com" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </a>
     <span></span>
     <a href="https://www.framer.com/" target="_blank">
@@ -123,7 +123,7 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
     </a>
     <span></span>
     <a href="https://gulpjs.com" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
     </a>
     <span></span>
     <a href="https://ionicframework.com" target="_blank">
@@ -143,7 +143,7 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 	</a>
 	<a href="https://www.docker.com/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
 	</a>
 	<a href="https://www.figma.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -152,16 +152,16 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 	</a>
 	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 	</a>
 	<a href="https://www.nginx.com" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 	</a>
 	<a href="https://www.postgresql.org" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 	</a>
 	<a href="https://postman.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -169,7 +169,7 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
 </p>
   <h4>💠 Other</h4>
    <p align="left">
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   	<a href="https://circleci.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
 	</a>
@@ -179,7 +179,7 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
   	<a href="https://azure.microsoft.com/en-in/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 	</a>
-     <a href="https://windows.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> </a>
-  <a href="https://www.apple.com/macos/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> </a>
+     <a href="https://windows.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> </a>
+  <a href="https://www.apple.com/macos/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> </a>
   
   </p>
