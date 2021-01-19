@@ -31,6 +31,8 @@ I am a full-stack developer and privacy advocate.
 
 - 📫 You can speak to me via email kieran@dothq.co
 
+- 🧭 My IP address is `127.0.0.1`
+
 ### 💻 What I'm working on
 
 - **[Dot Browser](https://github.com/dothq/browser)** - A privacy-centric web browser which automatically blocks trackers and ads online with ease.
