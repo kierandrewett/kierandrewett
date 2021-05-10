@@ -33,9 +33,6 @@ I am a full-stack developer and privacy advocate.
 
 - 📫 You can speak to me via email kieran@dothq.co
 
-- 🧭 My IP address is `127.0.0.1`
-
-
 <a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
 	<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=EnderDev" alt="Contribution Stats" />
 </a>
