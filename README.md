@@ -189,3 +189,4 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
   <a href="https://www.apple.com/macos/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> </a>
   
   </p>
+
