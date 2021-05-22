@@ -66,6 +66,10 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
     </a>
     <span></span>
+    <a href="https://www.ruby-lang.org" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+    </a>
+    <span></span>
     <a href="https://sass-lang.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
@@ -80,6 +84,10 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
     <span></span>
     <a href="https://www.php.net" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
+    <span></span>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
     </a>
     <span></span>
     <a href="https://www.python.org" target="_blank">
