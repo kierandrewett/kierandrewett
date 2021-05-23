@@ -15,8 +15,6 @@ I am a full-stack developer and privacy advocate.
   <span></span>
 	&nbsp;
   <img align="center" src="https://komarev.com/ghpvc/?username=enderdev&label=Profile%20views&color=0e75b6&style=flat" alt="enderdev" />
-
-	
 </p>
 
 ### 👨‍💻 About me
