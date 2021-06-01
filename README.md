@@ -2,7 +2,7 @@
 
 I'm Kieran, also known as EnderDev.
 I am a full-stack developer and privacy advocate.
-
+ 
 <p>
   <a href="https://twitter.com/enderdev_" target="blank">
     <img align="center" src="https://i.imgur.com/hz1w2yY.png" alt="enderdev_" height="22" width="22" />
