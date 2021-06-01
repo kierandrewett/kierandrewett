@@ -42,7 +42,7 @@ I am a full-stack developer and privacy advocate.
 - **[Compass](https://github.com/dothq/ntp)** - A widget-based new tab page 
 
 - **[dothq.co](https://github.com/dothq/dothq.co)** - Frontend and backend for https://dothq.co.
-
+ 
 ### ⭐ Technologies
 Any technology in these lists I either use on a daily basis or I am familiar with.
 <p align="left">
