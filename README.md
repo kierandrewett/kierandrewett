@@ -23,7 +23,7 @@ I am a full-stack developer and privacy advocate.
 
 - 🌱 I’m currently learning [Rust](https://rust-lang.org)
 
-- 🏛 All of my active projects are available at [ender.site](https://ender.site)
+- 🏛 All of my active projects are available on my pinned repositories
 
 - 📝 I regularly write articles on [dothq.co/blog](https://dothq.co/blog)
 
