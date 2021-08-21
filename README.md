@@ -21,7 +21,7 @@ I am a full-stack developer and privacy advocate.
 
 - 🔭 I’m currently working on [Dot Browser](https://dothq.co)
 
-- 🌱 I’m currently learning [Rust](https://rust-lang.org)
+- 🌱 I’m currently learning [Rust](https://rust-lang.org) and [Kotlin](https://kotlinlang.org/)
 
 - 🏛 All of my active projects are available on my pinned repositories
 
