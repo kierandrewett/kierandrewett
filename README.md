@@ -27,8 +27,6 @@ I am a full-stack developer and privacy advocate.
 
 - 📝 I regularly write articles on [dothq.co/blog](https://dothq.co/blog)
 
-- ⚡ Fun fact **ejaz is stupid**
-
 - 📫 You can speak to me via email kieran@dothq.co
 
 <a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
