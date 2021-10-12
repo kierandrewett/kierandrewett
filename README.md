@@ -37,8 +37,6 @@ I am a full-stack developer and privacy advocate.
 
 - **[Dot Browser](https://github.com/dothq/browser)** - A privacy-centric web browser which automatically blocks trackers and ads online with ease.
 
-- **[Compass](https://github.com/dothq/ntp)** - A widget-based new tab page 
-
 - **[dothq.co](https://github.com/dothq/dothq.co)** - Frontend and backend for https://dothq.co.
  
 ### ⭐ Technologies
