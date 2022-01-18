@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Kieran, also known as EnderDev.
+I'm dumb, also known as idiot.
 I am a full-stack developer and privacy advocate.
  
 <p>
