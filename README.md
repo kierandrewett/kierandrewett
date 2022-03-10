@@ -15,6 +15,11 @@ I am a full-stack developer and privacy advocate.
   <span></span>
 	&nbsp;
   <img align="center" src="https://komarev.com/ghpvc/?username=enderdev&label=Profile%20views&color=0e75b6&style=flat" alt="enderdev" />
+  <span></span>
+	&nbsp;
+  <a href="https://wakatime.com/@84ba3d0b-fb3e-484e-832b-6d8b57976b35">
+	  <img align="center" src="https://wakatime.com/badge/user/84ba3d0b-fb3e-484e-832b-6d8b57976b35.svg" />
+	</a>
 </p>
  
 ### 👨‍💻 About me
