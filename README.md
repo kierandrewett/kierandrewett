@@ -18,7 +18,7 @@ I am a full-stack developer and privacy advocate.
   <span></span>
 	&nbsp;
   <a href="https://wakatime.com/@84ba3d0b-fb3e-484e-832b-6d8b57976b35">
-	  <img align="center" src="https://wakatime.com/badge/user/84ba3d0b-fb3e-484e-832b-6d8b57976b35.svg?v=124" />
+	  <img align="center" src="https://wakatime.com/badge/user/84ba3d0b-fb3e-484e-832b-6d8b57976b35.svg?v=125" />
 	</a>
 </p>
  
