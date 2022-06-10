@@ -34,6 +34,8 @@ I am a full-stack developer and privacy advocate.
 
 - 📫 You can speak to me via email kieran@dothq.co
 
+<img src="https://spotify-playing-now-readme-pi.vercel.app/api/now-playing" width="540" height="52">
+
 <a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
 	<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=EnderDev" alt="Contribution Stats" />
 </a>
