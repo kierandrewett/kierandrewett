@@ -40,12 +40,6 @@ I am a full-stack developer and privacy advocate.
 	<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=EnderDev" alt="Contribution Stats" />
 </a>
 
-### 💻 What I'm working on
-
-- **[Dot Browser](https://github.com/dothq/browser)** - A privacy-centric web browser which automatically blocks trackers and ads online with ease.
-
-- **[dothq.co](https://github.com/dothq/dothq.co)** - Frontend and backend for https://dothq.co.
- 
 ### ⭐ Skills
 Technologies I am familiar with/use on a daily basis.
 
