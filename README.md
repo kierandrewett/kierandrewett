@@ -32,7 +32,7 @@ I am a full-stack developer and privacy advocate.
 
 - 📝 I regularly write articles on [dothq.co/blog](https://dothq.co/blog)
 
-- 📫 You can speak to me via email kieran@dothq.co
+- 📫 You can speak to me via email kieran@dothq.org
 
 <img src="https://spotify-playing-now-readme-pi.vercel.app/api/now-playing" width="540" height="52">
 
