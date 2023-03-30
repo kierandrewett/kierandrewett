@@ -30,7 +30,7 @@ I am a full-stack developer and privacy advocate.
 
 - 🏛 All of my active projects are available on my pinned repositories
 
-- 📝 I regularly write articles on [dothq.co/blog](https://dothq.co/blog)
+- 🌐 I have a website that is accessible at [kierand.dev](https://kierand.dev)
 
 - 📫 You can speak to me via email kieran@dothq.org
 
