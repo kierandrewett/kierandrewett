@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Kieran, also known as EnderDev.
-I am a full-stack developer and privacy advocate.
+I am a software engineer and privacy advocate building software at @dothq.
  
 <p>
   <a href="https://twitter.com/enderdev_" target="blank">
