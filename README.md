@@ -24,7 +24,7 @@ I am a software engineer and privacy advocate building software at [@dothq](http
  
 ### 👨‍💻 About me
 
-- 🔭 I’m currently working on [Dot Browser](https://dothq.co)
+- 🔭 I’m currently working on [Dot Browser](https://dothq.org)
 
 - 🌱 I’m currently learning [Rust](https://rust-lang.org) and [Kotlin](https://kotlinlang.org/)
 
@@ -33,15 +33,3 @@ I am a software engineer and privacy advocate building software at [@dothq](http
 - 🌐 I have a website that is accessible at [kierand.dev](https://kierand.dev)
 
 - 📫 You can speak to me via email kieran@dothq.org
-
-<img src="https://spotify-playing-now-readme-pi.vercel.app/api/now-playing" width="540" height="52">
-
-<a href="https://github.com/LordDashMe/github-contribution-stats/" target="blank">
-	<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=EnderDev" alt="Contribution Stats" />
-</a>
-
-### ⭐ Skills
-Technologies I am familiar with/use on a daily basis.
-
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,rust,py,docker,figma,cpp,git)](https://skillicons.dev)
- 
