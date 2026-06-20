@@ -5,7 +5,7 @@ I'm Kieran, a software engineer and the creator of Dot Browser at [@dothq](https
 ### Links
 
 - Website: https://drewett.dev
-- Twitter: [https://twitter.com/EnderDev_](https://twitter.com/EnderDev_)
+- Twitter: [https://twitter.com/kierandrewett](https://twitter.com/kierandrewett)
 - Mastodon: https://mastodon.social/@EnderDev
 - LinkedIn: https://www.linkedin.com/in/kieran-drewett
 - Email: [kieran@drewett.dev](mailto:kieran@drewett.dev) or [kieran@dothq.org](mailto:kieran@dothq.org)
